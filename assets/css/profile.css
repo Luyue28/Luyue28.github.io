@@ -1,0 +1,28 @@
+.profileBox {
+    display: flex;
+    margin-left: 23%;
+    margin-right: 23%;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.profileContent {
+    flex: 1;
+}
+
+.profileContent img {
+    height: 18rem;
+}
+
+.profileContent h2 {
+    color: #d94e41;
+    font-weight: bold;
+    font-size: 1rem;
+    margin-left: -3rem;
+}
+
+.profileContent p {
+    font-size: 1rem;
+    margin-left: -3rem;
+    padding-top: 0.5rem;
+}

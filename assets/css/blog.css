@@ -1,0 +1,38 @@
+#blogBox {
+    margin-left: 23%;
+    margin-right: 23%;
+}
+
+.blogCards {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.preTitle {
+    margin-top: 1.5rem;
+    color: #d94e41;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.preTime {
+    color: gray;
+    font-size: 0.7rem;
+    margin-bottom: 0.5rem;
+}
+
+.preContent {
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+}
+
+.preMore {
+    margin-bottom: 1.5rem;
+}
+
+.preMore a {
+    text-decoration: none;
+    font-size: 0.9rem;
+    color: #f26b1d;
+    text-decoration: underline;
+}

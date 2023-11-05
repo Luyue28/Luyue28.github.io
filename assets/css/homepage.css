@@ -1,0 +1,109 @@
+#introBox {
+    margin-top: 1.5rem;
+    text-align: center;
+}
+
+.introTitle {
+    margin-top: 1.5rem;
+    font-size: 1rem;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: #d94e41;
+    font-weight: bold;
+}
+
+.introContent {
+    font-size: 1rem;
+    margin-top: 0.3rem;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 1.8rem;
+}
+
+#btnBox {
+    margin-top: 1.5rem;
+    text-align: center;
+}
+
+#cvBtn {
+    margin-top: 1.3rem;
+    background-color: #d94e41;
+    height: 1.7rem;
+    width: 9rem;
+    border: hidden;
+    border-radius: 2rem;
+    margin-bottom: 1.8rem;
+}
+
+#cvBtn a {
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+}
+
+#pageBox {
+    margin-top: 1.5rem;
+    text-align: center;
+}
+
+.pageTitle {
+    margin-top: 1.5rem;
+    font-size: 1rem;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: #d94e41;
+    font-weight: bold;
+}
+
+#firstLine {
+    margin-top: 1.5rem;
+    margin-left: 30%;
+    margin-right: 30%;
+    display: flex;
+    margin-bottom: 1.8rem;
+}
+
+.flexDiv01 {
+    flex: 1;
+    font-size: 1rem;
+}
+
+#cantactBox {
+    margin-top: 1.5rem;
+    text-align: center;
+}
+
+.contactTitle {
+    margin-top: 1.5rem;
+    font-size: 1rem;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: #d94e41;
+    font-weight: bold;
+}
+
+#introIcon {
+    font-size: 1.5rem;
+    margin-top: 0.3rem;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#introIcon ul {
+    list-style-type: none;
+}
+
+#introIcon li {
+    display: inline;
+    padding: 0 1rem 0 1rem;
+}
+
+#introIcon a {
+    text-decoration: none;
+}
+
+#introIcon img {
+    margin-top: 1rem;
+    height: 2.3rem;
+    margin-bottom: 1.3rem;
+}
