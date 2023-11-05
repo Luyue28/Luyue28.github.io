@@ -1,0 +1,36 @@
+.faqHead {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    background-color: #d94e41;
+    border-radius: 2rem;
+    width: 25rem;
+    margin-left: 33%;
+    margin-right: 33%;
+}
+
+.faqHead p {
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+.faqlist {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.faqlist details {
+    margin-bottom: 1.5rem;
+}
+
+.faq-answers {
+    font-size: 0.9rem;
+    color: rgb(47, 47, 47);
+    margin-left: 1rem;
+}
+
+.faq-answers a {
+    font-size: 0.9rem;
+    color: rgb(47, 47, 47);
+}

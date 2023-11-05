@@ -1,0 +1,94 @@
+/* overview */
+.dashboard-overview-box {
+    margin-top: 1.5rem;
+    margin-left: 1.5rem;
+    border-radius: 2rem;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-style: double;
+    border-color: #b0b0b0a7;
+    border-width: 3px;
+    width: 35.5rem;
+    height: 10rem;
+}
+
+.dashboard-overview-title {
+    text-align: center;
+    margin-top: 1.4rem;
+    background-color: #666;
+    margin-left: 2rem;
+    width: 7rem;
+    height: 2rem;
+    border-radius: 2rem;
+}
+
+.dashboard-overview-title p {
+    padding-top: 0.2rem;
+    font-size: 1.1rem;
+    color: white;
+}
+
+.dashboard-overview {
+    text-align: center;
+    margin-top: 1.2rem;
+    width: 31.5rem;
+    height: 6rem;
+    margin-left: 2rem;
+
+}
+
+.dashboard-overview-layer0 {
+    border-radius: 1.2rem;
+    background-color: #e0dfdfa7;
+    display: flex;
+    align-items: center;
+}
+
+.dashboard-overview-layer1 {
+    width: 10%;
+    height: 1rem;
+    border-radius: 1.2rem;
+    background-color: #04aa6db6;
+}
+
+.dashboard-overview p {
+    text-align: right;
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+    color: #555;
+}
+
+/* table */
+.table-year01 {
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.block-row {
+    background-color: #d94e41;
+}
+
+.block-row th {
+    color: white;
+    font-size: 1.3rem;
+}
+
+.course-row {
+    background-color: #b0b0b0a7;
+}
+
+.course-row td {
+    color: white;
+    font-size: 1rem;
+}
+
+.result-row {
+    background-color: #edededa7;
+}
+
+.result-row td {
+    font-size: 0.8rem;
+}
